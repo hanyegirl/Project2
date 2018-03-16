@@ -1,0 +1,4 @@
+﻿  源.cpp
+g:\visualstudioworkspace\project2\project2\源.cpp(75): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Project2.vcxproj -> G:\visualstudioworkspace\Project2\Debug\Project2.exe
+  Project2.vcxproj -> G:\visualstudioworkspace\Project2\Debug\Project2.pdb (Partial PDB)
